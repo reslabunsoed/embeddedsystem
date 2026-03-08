@@ -13,6 +13,7 @@
     <th>LED</th>
     <th>Resistor</th>
     <th>Bradboard</th>
+    <th>Jumper</th>
   </tr>
 
   <tr align="center">
@@ -28,6 +29,9 @@
     <td>
       <img width="500" height="326" alt="breadboard" src="https://github.com/user-attachments/assets/0d1b7929-81f3-4bb2-a0de-757ef79bc916" /><br>
     </td>
+    <td>
+      <img width="229" height="344,5" alt="pngwing com" src="https://github.com/user-attachments/assets/0acc9c70-b288-4152-864e-e7bc8372ad91" /><br>
+    </td>
   </tr>
 
   <tr align="center">
@@ -35,6 +39,7 @@
     <td>Red LED</td>
     <td>220Ω Resistor atau lainnya</td>
     <td>Breadboard Mini</td>
+    <td>Kabel Jumper</td>
   </tr>
 </table>
 </div>
