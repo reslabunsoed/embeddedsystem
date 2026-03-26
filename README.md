@@ -50,19 +50,22 @@ void loop() {
 ## 🗂️ Modul Praktikum Embedded System dan Mikrokontroler
 Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno sebagai project board untuk mikrokontroler baik secara teori maupun langkah-langkah pengerjaan. Berikut modulnya:
 
-<h3><a href="/Modul 1: Konsep GPIO">Modul 1 : Konsep GPIO</a></h3>
+<h3><a href="/Modul 1: Percabangan dan Perulangan">Modul 1 : Percabangan dan Perulangan</a></h3>
+<p>Praktikum ini mempelajari penggunaan percabangan dan perulangan pada pemrograman Arduino untuk mengontrol alur logika program dan menghasilkan perilaku sistem yang dinamis.</p>
+
+<h3><a href="/Modul 2: Pemrograman Input Output">Modul 2 : Pemrograman Input Output</a></h3>
 <p>Praktikum ini membahas penggunaan pin GPIO pada mikrokontroler sebagai input dan output untuk mengendalikan perangkat digital seperti LED dan membaca kondisi tombol, sehingga mahasiswa memahami dasar interaksi perangkat keras dengan program.</p>
 
-<h3><a href="">Modul 2: Komunikasi Serial</a></h3>
+<h3><a href="/Modul 3: Serial Communication">Modul 3: Komunikasi Serial</a></h3>
 <p>Praktikum ini memperkenalkan komunikasi serial untuk pertukaran data antara mikrokontroler dan komputer, termasuk pengiriman dan penerimaan data melalui Serial Monitor sebagai sarana monitoring dan debugging sistem.</p>
 
-<h3><a href="">Modul 3: ADC dan DAC</a></h3>
+<h3><a href="/Modul 4: ADC dan DAC">Modul 4: ADC dan DAC</a></h3>
 <p>Praktikum ini mempelajari konversi sinyal analog ke digital (ADC) dan digital ke analog (DAC) pada mikrokontroler untuk membaca sensor analog dan menghasilkan keluaran analog sesuai kebutuhan aplikasi.</p>
 
-<h3><a href="">Modul 4: Real-Time Operating System (RTOS)</a></h3>
+<h3><a href="/Modul 5 : RTOS">Modul 5: Real-Time Operating System (RTOS)</a></h3>
 <p>Praktikum ini memperkenalkan konsep dasar Real-Time Operating System (RTOS), termasuk pengelolaan task dan penjadwalan sederhana, untuk memahami pengembangan aplikasi multitasking pada sistem mikrokontroler.</p>
 
-<h3><a href="">Modul (Tambahan): Pengenalan Internet of Things</a></h3>
+<h3><a href="/Modul 6 (Tambahan): Pengenalan IoT">Modul (Tambahan): Pengenalan Internet of Things</a></h3>
 <p>Modul ini memperkenalkan dasar-dasar Internet of Things (IoT), yaitu konsep menghubungkan perangkat fisik ke internet untuk mengirim dan menerima data.
 </p>
 
