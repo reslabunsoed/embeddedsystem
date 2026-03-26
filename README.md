@@ -86,6 +86,47 @@ Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno 
   </tr>
 </table>
 
+<h2>📓 Buku Catatan Praktikum</h2>
+<p>Buku catatan praktikum adalah catatan yang digunakan dalam eksperimen langsung di laboratorium yang memuat aktivitas selama praktikum berlangsung berisi rangkaian, kode dan hasil yang bertujuan sebagai dokumentasi percobaan.</p>
+
+<p>Petunjuk pengisian Buku Catatan Praktikum adalah sebagai berikut:</p>
+<ul>
+  <li>Gunakan buku catatan ini hanya untuk keperluan lab</li>
+  <li>Tulis identitas sesuai dengan format</li>
+  <li>Mahasiswa mencatat hasil dan jawaban pertanyaan praktikum dengan pena bertinta, bukan pensil</li>
+  <li>Bila terjadi terjadi kesalahan, coretlah bagian yang salah. Jangan menggunakan penghapus atau menutup (tip-ex) catatan yang salah</li>
+  <li>Buat catatan berkesinambungan, jangan meninggalkan ruang atau halaman kosong</li>
+  <li>Tutup bagian akhir catatan dengan memberikan garis</li>
+  <li>Bila catatan terakhir satu modul hanya mengisi beberapa baris teratas saja, lanjutkan catatan berikutnya pada halaman yang sama</li>
+  <li>Tidak diperkenankan untuk merobek buku catatan praktikum</li>
+  <li>Tandatangani dan beri tanggal setiap halaman yang memiliki data</li>
+  <li>Adapun hal yang perlu dicatat saat proses praktikum meliputi:</li>
+  <ul>
+    <li>Tujuan praktikum berdasarkan pemahaman praktikan setelah melakukan proses praktikum</li>
+    <li>Gambar rangkaian setiap percobaan</li>
+    <li>Penjelasan program yang digunakan</li>
+    <li>Hasil pengamatan dan jawaban pertanyaan praktikum</li>
+    <li>Catatan Kendala</li>
+  </ul>
+  <li>Catat semua kejadian, baik positif ataupun negatif, yang terjadi di lab</li>
+  <li>Catat tidak hanya data, namun juga permasalahan yang ditemui pada alat yang digunakan, pengesetan peralatan, teknik pengukuran, atau prosedur penting yang disarankan manual lab</li>
+  <li>Saat membuat grafik, beri label setiap sumbu grafik dengan nama variabel, satuan, origin (titik nol), dan skala.</li>
+  <li>Asisten menandatangani dan memberi tanggal sebelum sesi lab selesai</li>
+  <li>Tanggung jawab bersama antara asisten dan mahasiswa untuk memastikan data yang diambil sesuai dengan harapan sebelum mahasiswa meninggalkan setiap sesi lab</li>
+</ul>
+
+<table border="1" align="center" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <h2>
+        <a href="https://docs.google.com/document/d/1H7cjsJ31MNUCidYrXR4XzcVPMSk_7Lf-/edit?usp=sharing&ouid=114215355724116733257&rtpof=true&sd=true">
+          TEMPLATE BUKU CATATAN PRAKTIKUM 
+        </a>
+      </h2>
+    </td>
+  </tr>
+</table>
+
 <h2>⚙️ Bagian-bagian Pada Arduino</h2>
 <p>Dengan mengambil contoh sebuah papan Arduino tipe USB, bagian-bagiannya dapat dijelaskan sebagai berikut.</p>
 
